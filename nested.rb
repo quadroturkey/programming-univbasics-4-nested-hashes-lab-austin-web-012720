@@ -87,7 +87,7 @@ def adding_matz
         }
      }
 
-  programmer_hash[:yukihiro_matsumoto] = "Help"
+  programmer_hash[:yukihiro_matsumoto] = "Test String"
     
 end
 
